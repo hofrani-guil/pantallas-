@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+	<title>Sistema de Inscripción Instituto de Educacion Especial "Los Angeles"</title>
+     <link rel="stylesheet" type="text/css" href="css/estilos.css">
+	  <meta charset="utf-8">
+
+</head>
+
+   <div class="container">
+    <header>  
+   		<IMG SRC="img/cab-general.jpg" width="825" height="100" border="2"> 
+   </header>
+
+
+<nav>
+	<ul>
+
+	    <a href="intex.html"><li>Inicio</li></a>
+		<a href="users.html"><li>usuario</li></a>
+		<a href="contacto.html"><li>Contactos</li></a>
+		<a href="login.html"><li>Salir</li></a>
+		
+	</ul>
+</nav>
+
+       <aside>
+		   <div id="menuvertical">
+		  
+  			  <ul>
+   			     <a href="inscription.html"> <li>  requisitos de inscripcion</li></a>
+	            <a href="inscription.html"> <li>  inscribir alumno</li> </a>
+	            <a href="inscription.html"> <li>  datos de representante</li> </a>
+	            <a href="login.html"> <li>  administrativo</li></a>
+                    <a href="users.html"> <li> listado de docente</li> </a>
+  			    </ul>
+ 		  </div>
+ 		</aside>
+
+<section>
+ 		</section>
+ 		<div class="clear">
+	
+        </div>
+ 		        <footer id="page_footer">
+		           <p><h3>&copy; 2016 Derechos Reservados. Creado por: Hofrani Guillen de la UPTM Kléber Ramiréz<h3></p>
+		         </footer>
+		    </div>
+</body>
+</html>
+
+

@@ -1,0 +1,114 @@
+
+body{
+background: #ACE7FF;
+   }
+
+  .container{
+	width: 850px;
+	border: 1px solid #000000;
+	margin: 0 auto;
+	
+ }
+
+header
+{
+ background: #FF99CC;
+   height: 100px;
+   border: 1px solid #000000;
+   margin: 10px;
+   text-align: center;
+}
+
+
+
+
+nav
+{
+	background: #FF99CC;
+	height: 40px;
+	border: 1px solid #000000;
+	margin: 5px;
+
+}
+
+nav ul li{
+	display: inline;
+	color: #000000;
+	padding: 3px;
+    margin-bottom: 0px;
+      margin: 60px;
+font-size:20px;
+font-family: Georgia, 'Times New Roman', serif;"
+ font-weight: bold;
+}
+
+aside ul li {
+display: inline-block;
+margin: 20px;
+font-size:20px;
+font-family: Georgia, 'Times New Roman', serif;"
+ font-weight: bold;
+}
+ a
+{
+text-decoration: none; 
+color: #000;
+
+}
+   nav ul li:hover, aside ul li:hover
+{
+	background: #fff;
+ }
+
+aside #menuvertical{
+
+background: #ECD4FF;
+	width: 200px;
+	border: 1px solid #000000;
+	height: 400px;
+	margin-bottom: 0px;
+	float: left; 
+        margin : 0px;
+         padding: 3px;
+
+ }
+   
+  .clear {
+	clear:both;
+}
+ 	
+footer {
+	background: #FF99CC;
+	height: 50px;
+	border: 1px solid #000000;
+	margin: 10px;
+	}
+
+section#contacto
+{
+	text-align:center;
+}
+
+.login { 
+	width: 100%;
+	border-radius: 30px;
+	background: #CCCCFF;
+	width: 60%;
+	margin: 30px auto;
+	padding: 30px;
+	text-align:center;
+}
+	
+
+section #login1{ 
+	width: 100%;
+	border-radius: 30px;
+	background: #CCCCFF;
+	width: 80%;
+	margin: 50px ;
+	padding: 50px;
+	text-align:center;
+}
+
+
+

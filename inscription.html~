@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	<meta charset="utf-8">
+</head>
+<body>
+	<div>
+		<header> <h1>inscribir alumno</h1></header>
+		<section class="login1">
+		
+			<fieldset>
+				<legend>sistema de inscrpcion</legend>
+				<form action="intex.html" method="POST" autocomplete="off">
+					<div>
+						<label for="user" class="label">nombre</label>
+
+						<input id="user" type="text" name="user" value="" title="Ej hofraniguillen" placeholder="Ej:estudiante">
+					</div>
+					<div>
+						<label for="pass" class="label">Cedula</label>
+						<input id="pass" type="password" name="pass" value="" title="">
+					</div>
+
+					<div>
+						<label for="f" class="label">sexo</label>
+
+						<input id="f" type="radio" name="sexo" value="0">
+						<label for="f">Femenino</label>
+
+						<input id="m" type="radio" name="sexo" value="1">
+						<label for="m">Masculino</label>
+					</div>
+					<input type="submit" value="Ingresar">
+				</form>
+			</fieldset>
+
+		</section>
+		
+	</div>
+</body>
+</html>
+
+
+			
